@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@babel/generator": "^7.17.10",
+    "@babel/template": "^7.16.7",
+    "@babel/types": "^7.17.10",
+    "@sanjo/read-file": "^2.0.0"
+  }
+}
